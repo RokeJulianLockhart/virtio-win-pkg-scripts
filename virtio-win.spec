@@ -47,7 +47,7 @@ Name: virtio-win
 Version: 0.1.271
 Release: 1
 Group: Applications/System
-URL: https://github.com/virtio-win/virtio-win-pkg-scripts
+URL: https://github.com/virtio-win/kvm-guest-drivers-windows/issues
 BuildArch: noarch
 
 %if %{rhel_defaults}
